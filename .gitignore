@@ -3,3 +3,5 @@
 .idea
 venv/
 .venv/
+digi_xbee.egg-info/
+dist/
