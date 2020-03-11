@@ -314,7 +314,7 @@ def doc_enum(enum_class, descriptions=None):
     return data + "| \n"
 
 
-def enable_logger(name, level=logging.DEBUG):
+def enable_logger(name, level=logging.WARNING):
     """
     Enables a logger with the given name and level.
 
